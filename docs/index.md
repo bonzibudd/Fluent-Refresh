@@ -1,17 +1,14 @@
 ## What is Fluent-Metro?
 
-This skin brings a modern look and full customization to Open-Shell. It uses refreshed design elements with transparency and depth, following the design of Windows 10. 
+This skin brings a modern look and full customization to Open-Shell. It uses refreshed design elements with transparency and depth, following the design of Windows 11. 
 
 Some enhancements include:
- - Use of Windows 10's system colors, providing automatic light/dark colorization
+ - Use of Windows 11's system colors, providing automatic light/dark colorization
  - Customizable text and background colors, along with accent color
  - Various options for padding and layout sizes
- - Updated icons, matching Windows 10's Fluent icons
+ - Updated icons, matching Windows 11's Fluent icons
  - Improved scaling of menu elements (padding, icons, etc.)
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/bonzibudd/Fluent-Metro/total?style=for-the-badge&color=blue)](https://github.com/bonzibudd/Fluent-Metro/releases)
-
-###### Old and pre-release versions are available [here](https://github.com/bonzibudd/Fluent-Metro/tree/master/Development).
 <img src="https://user-images.githubusercontent.com/61938331/118149650-bc1c9200-b3df-11eb-9fcf-dac0f42d145a.png" alt="Fluent-Metro" width="394">
 
 
@@ -20,7 +17,7 @@ Some enhancements include:
  - Create a **[Feature request](https://github.com/bonzibudd/Fluent-Metro/issues/new?assignees=&labels=feature%2Fenhancement&template=feature_request.md&title=)**.
 
 ## Installation
-**Fluent-Metro is designed for Windows 10. It is incompatible with Windows 7 and 8.**
+**Fluent-Metro is designed for Windows 10 and 11. It is incompatible with Windows 7 and 8.**
 
 To start, you will need [Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu/releases). Open-Shell is a highly regarded Start Menu replacement for Windows and is used by many enthusiasts. During installation, you can choose to not include the Explorer and IE integration, as it is not necessary for the Start Menu feature.
 
