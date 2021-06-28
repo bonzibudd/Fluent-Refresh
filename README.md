@@ -1,7 +1,7 @@
 # This is a test repository!
 
 
-# <img src="/Resources/Icon/Fluent-Metro.svg" alt="Fluent-Refresh" height="32"> Fluent-Refresh
+# <a href="#"><img src="/Resources/Icon/Fluent-Metro.svg" alt="Fluent-Refresh" height="32"></a> Fluent-Refresh
 
 **For Open-Shell Menu**
 
