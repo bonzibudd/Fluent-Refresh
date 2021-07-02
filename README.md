@@ -1,4 +1,4 @@
-# This is a test repository!
+# This is a test repository! Open-Shell is not currently compatible with Windows 11!
 
 
 # <a href="#-fluent-refresh"><img src="/Resources/Icon/Fluent-Metro.svg" alt="Fluent-Refresh" height="32"></a> Fluent-Refresh
@@ -24,7 +24,7 @@ Some enhancements include:
  - Improved scaling of menu elements (padding, icons, etc.)
 
 ## Installation
-**Fluent-Refresh is designed for Windows 10 and 11. It is incompatible with Windows 7 and 8.**
+**Fluent-Refresh is designed for Windows 11. It is incompatible with Windows 7-10.**
 
 To start, you will need [Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu/releases). Open-Shell is a highly regarded Start Menu replacement for Windows and is used by many enthusiasts. During installation, you can choose to not include the Explorer and IE integration, as it is not necessary for the Start Menu feature.
 
