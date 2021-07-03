@@ -1,4 +1,4 @@
-# This is a test repository! Open-Shell does not guarantee compatibility with Windows 11!
+# Proceed with caution! Open-Shell does not guarantee compatibility with Windows 11!
 
 
 # <a href="#-fluent-refresh"><img src="/Resources/Icon/Fluent-Metro.svg" alt="Fluent-Refresh" height="32"></a> Fluent-Refresh
