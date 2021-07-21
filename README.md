@@ -9,6 +9,8 @@ A modern, highly customizable skin for Open-Shell, made for Windows 11.
 
 *Originally **[Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro)** for Windows 10*
 
+<a href="https://github.com/bonzibudd/Fluent-Refresh/releases"><img src="https://img.shields.io/github/downloads/bonzibudd/Fluent-Refresh/total?style=for-the-badge&color=blue&labelColor=555555&label=Downloads" height="28" alt="Downloads"/></a>
+
 <img src="https://user-images.githubusercontent.com/61938331/124370839-82327400-dc49-11eb-8fd8-1868b3a6472f.png" alt="Fluent-Refresh" width="401">
 
 ### What is Fluent-Refresh?
