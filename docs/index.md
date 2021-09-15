@@ -9,7 +9,7 @@ Some enhancements include:
  - Updated icons, matching Windows 11's Fluent icons
  - Improved scaling of menu elements (padding, icons, etc.)
 
-<img src="https://user-images.githubusercontent.com/61938331/118149650-bc1c9200-b3df-11eb-9fcf-dac0f42d145a.png" alt="Fluent-Refresh" width="394">
+<img src="https://user-images.githubusercontent.com/61938331/124370839-82327400-dc49-11eb-8fd8-1868b3a6472f.png" alt="Fluent-Refresh" width="401">
 
 
 ## Ways to contribute:
