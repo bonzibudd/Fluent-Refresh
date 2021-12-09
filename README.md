@@ -1,7 +1,7 @@
-# Proceed with caution! Open-Shell does not guarantee compatibility with Windows 11!
+# Proceed with caution. Open-Shell does not guarantee compatibility with Windows 11.
 
 
-# <a href="#-fluent-refresh"><img src="/Resources/Icon/Fluent-Metro.svg" alt="Fluent-Refresh" height="32"></a> Fluent-Refresh
+### Fluent-Refresh
 
 **For Open-Shell Menu**
 
@@ -9,7 +9,7 @@ A modern, highly customizable skin for Open-Shell, made for Windows 11.
 
 *Originally **[Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro)** for Windows 10*
 
-<a href="https://github.com/bonzibudd/Fluent-Refresh/releases"><img src="https://img.shields.io/github/downloads/bonzibudd/Fluent-Refresh/total?style=for-the-badge&color=blue&labelColor=555555&label=Downloads" height="28" alt="Downloads"/></a>
+<a href="https://github.com/bonzibudd/Fluent-Refresh/releases"><img src="/Resources/Icon/Fluent-Metro.svg" alt="Fluent-Refresh" height="32"></a> <a href="https://github.com/bonzibudd/Fluent-Refresh/releases"><img src="https://img.shields.io/github/downloads/bonzibudd/Fluent-Refresh/total?style=for-the-badge&color=blue&labelColor=E6E6E6&label=Downloads" height="32" width="144" alt="Downloads"/></a>
 
 <img src="https://user-images.githubusercontent.com/61938331/124370839-82327400-dc49-11eb-8fd8-1868b3a6472f.png" alt="Fluent-Refresh" width="401">
 
@@ -18,14 +18,14 @@ A modern, highly customizable skin for Open-Shell, made for Windows 11.
 This skin brings a modern look and full customization to Open-Shell. It uses refreshed design elements with transparency and depth, following the design of Windows 11. 
 
 Some enhancements include:
- - Use of Windows 11's system colors, providing automatic light/dark colorization
+ - Inclusion of system colors, providing automatic light/dark modes
  - Customizable text and background colors, along with accent color
  - Various options for padding and layout sizes
  - Updated icons, matching Windows 11's Fluent icons
  - Improved scaling of menu elements (padding, icons, etc.)
 
-## Installation
-**Fluent-Refresh is designed for Windows 11. It is incompatible with Windows 7-10.**
+### Installation
+**Fluent-Refresh is designed for Windows 11. It is incompatible with Windows 7-10 (see [releases](https://github.com/bonzibudd/Fluent-Refresh/releases) for more details).**
 
 To start, you will need [Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu/releases). Open-Shell is a highly regarded Start Menu replacement for Windows and is used by many enthusiasts. During installation, you can choose to not include the Explorer and IE integration, as it is not necessary for the Start Menu feature.
 
