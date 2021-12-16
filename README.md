@@ -27,7 +27,7 @@ Some enhancements include:
 ### Installation
 **Fluent-Refresh is designed for Windows 11. It is incompatible with Windows 7-10 (see [releases](https://github.com/bonzibudd/Fluent-Refresh/releases) for more details).**
 
-To start, you will need [Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu/releases). Open-Shell is a highly regarded Start Menu replacement for Windows and is used by many enthusiasts. During installation, you can choose to not include the Explorer and IE integration, as it is not necessary for the Start Menu feature.
+To start, you will need [Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu/releases). Open-Shell is a highly regarded Start menu replacement for Windows and is used by many enthusiasts. During installation, you can choose to not include the Explorer and IE integration, as it is not necessary for the Start menu feature.
 
 To install, copy the `Fluent-Refresh.skin` and `.skin7` files into `C:\Program Files\Open-Shell\Skins` so the skin is recognized by Open-Shell. Next, navigate to the "Skins" tab, and from the dropdown, choose Fluent-Refresh (the name may be different on pre-release versions).
 
